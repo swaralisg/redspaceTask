@@ -41,26 +41,24 @@ Hosted on - Gtihub , EC2 AWS instance
 
 
 #Functionalities:-
-
 1)Created well defined components for aboutus page, films page, header, footer, homepage, and search.
-2) Providing routing module that can route between various components. The common modeule used wad the app.routing.js module.
+2) Providing routing module that can route between various components. The common module used wad the app.routing.js module.
 3)Created a service for establishing a connection from Angular to the external API. 
 4)Used the concept of injections in order to inject the service in the search component.
 5)Used Async pipes, RXJS library and observables in the service in order to observe and catch the changes made in the endpoints while the user keeps providing various input values for the name or ID.
 The concept of subscription was used in the searchcomponent.ts file in order publish the responses of the observables 
 6)Used the concept of Lazy Loading in order to fetch data from nested APIs.
 7) Utilised *ngIf and a local reference variable in order to display a message incase if the user enters a non-existing value.
-8)Added a javascript element in order to clear out the input text from the input feild upon clicking the search button.
+8)Added a JavaScript element in order to clear out the input text from the input field upon clicking the search button.
 9)Utilised a few inbuilt color functions belonging to SCSS.
 10)Utilised the Bootstrap framework in order to make the website responsive.
-11) Installed the al-shah package in order to acheive additional UI enhancements.
-12) Utilised the materilise CSS framework in order to make certain html elements more enhanced and creative.
+11) Installed the al-shah package in order to achieve additional UI enhancements.
+12) Utilised the materialise CSS framework in order to make certain html elements more enhanced and creative.
 13)Utilised the font-awesome icons library to add font awesome icons in the footer.
 14) Wrote a function in the typescript file of the aboutUs page that allows the user to click on various links in the sub-header and that auto scrolls to that particular link's section. 
 15) Added the colour flapping effect upon hovering across the character cards on the homepage and the movie cards on the films page. 
 16)Deployed the project to Github. 
 17) Deployed backend of the project onto an EC2 instance on the AWS cloud.
-
 
 
 #Constraints
