@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "al-shah@1.1.1",
+      "/Users/sandeep/Manoj/tez/tejas/tejas"
+    ]
+  ],
+  "_from": "al-shah@^1.9.7",
+  "_id": "al-shah@1.11.9",
+  "_inBundle": false,
+  "_integrity": "sha512-MkbN68SYIqnilmPGNy9xXWQDT4sZRyVY87+KlYkrnXygCEvB2spt0n+KBXpEFig29FA6FzA0Ar/UDRIb1XMvVg==",
+  "_location": "/al-shah",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "al-shah@^1.9.7",
+    "name": "al-shah",
+    "escapedName": "al-shah",
+    "rawSpec": "^1.9.7",
+    "saveSpec": null,
+    "fetchSpec": "^1.9.7"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/al-shah/-/al-shah-1.11.9.tgz",
+  "_shasum": "a0277e1696a59e2ad9b4dc812d94726a1027d24f",
+  "_spec": "al-shah@^1.9.7",
+  "_where": "C:\\Users\\Swarali\\Desktop\\Important\\Angular\\angularpractise\\angular-backend",
+  "author": {
+    "name": "Manoj",
+    "email": "ptlmnj89@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/msraosurya/al-shah/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "materializeParallaxTemplate",
+  "homepage": "https://github.com/msraosurya/al-shah#readme",
+  "keywords": [
+    "al-shah"
+  ],
+  "license": "MIT",
+  "main": "index.html",
+  "name": "al-shah",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msraosurya/al-shah.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.11.9"
+}
